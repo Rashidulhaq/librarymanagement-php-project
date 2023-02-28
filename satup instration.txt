@@ -1,0 +1,7 @@
+flow this video for satep project
+https://www.youtube.com/watch?v=HWBCgTkQ2gc&t=650s
+
+step1: download all rar file with database file
+step2: lms file copy to xammp-->htdocs--> then paste.
+step3: xammmp open ,databse create (lms) and table import.
+step4: search --> localhost.lms--> will run project
